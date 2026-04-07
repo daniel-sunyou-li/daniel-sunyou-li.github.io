@@ -1,1 +1,9 @@
-
+body {
+  background-color: DarkSeaGreen;
+}
+h1 {
+  color: DarkSlateGrey;
+}
+p {
+  color: Black;
+}
